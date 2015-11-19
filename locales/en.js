@@ -52,7 +52,7 @@ rebate:
 apply_promo_code:
 "Apply promo code",
 my_cart:
-"My cart",
+"Hello world",
 my_cart_content:
 "My cart's content",
 shipping_method:
