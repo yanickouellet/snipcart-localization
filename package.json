@@ -1,0 +1,19 @@
+{
+  "name": "snipcart-localization",
+  "version": "0.0.0",
+  "description": "Snipcart Localization Files ===========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yanickouellet/snipcart-localization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanickouellet/snipcart-localization/issues"
+  },
+  "homepage": "https://github.com/yanickouellet/snipcart-localization"
+}
